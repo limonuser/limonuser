@@ -1,8 +1,7 @@
-### Azizbek Muxtarov
+Hi, I'm Azizbek, a high school student from Tashkent.
 
-High school student in Tashkent, Uzbekistan (graduating 2027). I'm learning networking and systems, especially congestion control and network emulation.
+I mostly write TypeScript, Python and C. Right now I'm working on [Vaqtda](https://vaqtda.uz), a booking app I started with two friends, and I help out on [osonhuquqayollar.uz](https://osonhuquqayollar.uz), a legal-information site for women in Uzbekistan.
 
-- **Now:** learning Rust so I can contribute tests to open-source network emulators.
-- **Projects:** co-founder and developer at [Vaqtda](https://vaqtda.uz), a booking app (React Native, TypeScript, Supabase); volunteer developer on [osonhuquqayollar.uz](https://osonhuquqayollar.uz) (Next.js).
-- **Study repos:** [C_educator](https://github.com/limonuser/C_educator) and [Python_educator](https://github.com/limonuser/Python_educator), each with lessons, practice problems and CI checks. [BBR paper study](https://github.com/limonuser/Research-bbr-congestion-control) is a small figure-redrawing exercise.
-- **Contact:** a.muxtarov.uz@gmail.com
+In my free time I read networking papers and try to understand how things like TCP congestion control actually work.
+
+a.muxtarov.uz@gmail.com
